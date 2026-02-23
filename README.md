@@ -19,6 +19,8 @@ A collection of guides on using and configuring a Raspberry Pi.
 | mass-storage-gadget.pdf | USB Mass Storage Gadget - A Beginner's Guide |
 | nas.pdf | Building A Pi Based NAS |
 | netboot0.pdf | Network Boot A Pi Zero Via The USB Ethernet Gadget |
+| PCIe SATA Root.pdf | Root On PCIe Connected SATA Drive |
+| static-ip.pdf | Configuring a Stativ IP Address with Trixie and cloud-init |
 
 While aimed at Raspberry Pi and Raspberry Pi OS, cron.pdf, boot.pdf, fstab.pdf, and nas.pdf are also applicable to most modern Linux distributions regardless of the hardware platform.
 
